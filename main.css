@@ -60,6 +60,7 @@ a:hover {
 
 a.origami,
 a.origami:hover {
+  background: url(scott-corgi.png) no-repeat -9999px -9999px;
   font-weight: 500;
   color: #358cf0;
 }
@@ -96,12 +97,12 @@ section {
   border-radius: 50%;
   overflow: hidden;
 
-  background: url(scott.png);
+  background: url(scott.png) no-repeat;
   background-size: contain;
 }
 
 #profile:hover {
-  background: url(scott-corgi.png);
+  background: url(scott-corgi.png) no-repeat;
   background-size: contain;
 }
 
