@@ -102,7 +102,7 @@ img {
 /*** sections ***/
 
 section {
-  width: 40%;
+  width: auto;
   max-width: 688px;
 
   display: flex;
